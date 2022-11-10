@@ -1,1 +1,1 @@
-# react-power-implicity
+React power simplicity 
